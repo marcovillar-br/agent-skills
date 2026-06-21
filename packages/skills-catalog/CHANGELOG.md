@@ -1,3 +1,14 @@
+## 0.14.5 (2026-06-21)
+
+### 🚀 Features
+
+- **skills-catalog:** add megabrain skill (tlc-spec-driven v3.0.0 alias) ([481772786](https://github.com/tech-leads-club/agent-skills/commit/481772786))
+
+### ❤️ Thank You
+
+- Cursor @cursoragent
+- Waldemar Neto @waldemarnt
+
 ## 0.14.4 (2026-06-19)
 
 ### 🚀 Features
